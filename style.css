@@ -2,7 +2,16 @@ body {
     padding: 0;
     margin: 0;
     background: #f2f2f2;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.git {
+    width: 150px;
+    height: 150px;
+    background-color: #f05033;
+    border-radius: 15px;
+    position: relative;
 }
